@@ -20,20 +20,21 @@ I have expert knowledge in software development, architecture, message driven mi
 As a result of being in the Telecom business industry since 2001, I have a lot of knowledge in terms of all the technique behind the different telecom areas: the teams, the software, the infrastructure and the business driving it. I am passonate about software and always strive for innovation, usable and simple solutions!
 
 
-## Price: 800 Kr / Hour ex. VAT
-
 ------
 
 ### Skills {#skills}
 
-* Software Development
-  : Polyglot and full-stack developer with a huge experience in multiple languages and deep knowledge of operating systems. Have done software development since the late 90's.
-
-* Architecture and Design
-  : Experienced in building and streamlining mission-critical systems. Strives to get high quality software with simple and well designed solution.
 
 * Agile Project Direction
   : Proven ability to lead and manage a wide variety of agile development projects in team and independent situations.
+
+* Architecture and Design
+  : Experienced in building and streamlining mission-critical systems. Strives to get high quality software with simple and well designed solution.
+  
+* Software Development
+  : Polyglot and full-stack developer with a huge experience in multiple languages and deep knowledge of networks and operating systems. Have done software development since the late 90's.
+
+
 
 -------
 
@@ -46,6 +47,7 @@ As a result of being in the Telecom business industry since 2001, I have a lot o
 5. Groovy
 5. Camel
 1. HTML5
+2. TypeScript
 2. AngularJS
 2. RDBMS (MySQL, PostGres, Oracle)
 3. NoSQL (Couchbase, Couchdb, MongoDB)
@@ -57,7 +59,8 @@ As a result of being in the Telecom business industry since 2001, I have a lot o
 1. Git
 2. Cont. Integration
 3. Cloud Computing
-4. Load Testing
+4. Load Testing / Tsung
+5. Atlassian products (Jira, Bitbucket, Confluence)
 3. Grafana 
 4. Kibana
 4. Logstash
@@ -69,6 +72,12 @@ As a result of being in the Telecom business industry since 2001, I have a lot o
 ------
 
 ### Experience {#experience}
+
+DSB IT
+: *Senior Consultant*
+  __2016-????__
+  Team lead and architect for developing mobile solutions for DSB.
+Working with Javascript, Typescript, Ionic, AngularJS, Phonegap/Cordova, HTML5, Couchdb, Docker, Offline first strategies, RabbitMQ, Jenkins and continuous integrations.
 
 TDC
 : *Senior Consultant*
@@ -139,6 +148,7 @@ Dev Ops
   __1997-1999__
   Maintaining the infrastructure behind the Danish Unix Organization in Denmark. All the servers where kept up and running of course. Also all the sendmail cf files, majordomo list where implemented. DNS and zones where of course also maintained and updated for a lot of hosts. All our website at the organization where also implemented. Designed and implemented the cashcow and payment (Dancard and VISA) for the site as well (in perl).
 
+-------
 
   
 ### Education {#experience}
