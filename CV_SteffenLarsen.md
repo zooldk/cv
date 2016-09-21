@@ -4,20 +4,20 @@
 > Birthday: 27-10-1976
 > [Download PDF](resume.pdf)  
 > [slarsen@braintrust.dk](slarsen@braintrust.dk)  
-> [Mobile: 51 94 33 33](tel:51943333)
+> [Mobile: 00 45 51 94 33 33](tel:004551943333)
 
 ------
 
 ### Profile {#profile}
 
-Experienced technologist, that handles all from software development to leadership and reasearch and design. 
+Experienced architect and technologist, that handles all from software development to leadership and research and design. 
 Strong track record in innovation, software development and strategy. Proven ability to build large scale software within highly agile teams where I strive the best. Always creating creative solutions for new concepts and product strategies.
 
-Master Degree in Computer Science (M.Sc.) and Bachelor in Information Psychology at Copenhagen university. I Have been a professional software developer since 1996.
+Master Degree in Computer Science (M.Sc.) and Bachelor in Information Psychology at Copenhagen university. I Have been developing and designing professional software developer since 1996.
 
-I have expert knowledge in software development, architecture, message driven middleware, messaging systems, streaming, networking, mobile and operating systems. Contributor for various projects in the open source community and open standards world. Official member and contributor for the XMPP (Jabber) protocol to drive an open and standardized Internet.
+I have expert knowledge in software development, architecture, message driven middleware, messaging systems, streaming, networking, mobile software deevelopment and operating systems. Contributor for various projects in the open source community and open standards world. Official member and contributor for the XMPP (Jabber) protocol to drive an open and standardised Internet.
 
-As a result of being in the Telecom business industry since 2001, I have a lot of knowledge in terms of all the technique behind the different telecom areas: the teams, the software, the infrastructure and the business driving it. I am passonate about software and always strive for innovation, usable and simple solutions!
+As a result of being in the Telecom business industry since 2001, I have a lot of knowledge in terms of all the technique behind the different telecom areas: the teams, the software, the infrastructure and the business driving it. I am passionate about software and always strive for innovation, usable and simple solutions!
 
 
 ------
@@ -73,6 +73,15 @@ As a result of being in the Telecom business industry since 2001, I have a lot o
 
 ### Experience {#experience}
 
+
+
+CodeZense
+: *CTO*
+  __2014-????__
+	Responsible for the strategic directions and technical leadership for the zense.io platform. 
+Handling the development team, software architecture, software development, platform scaling, devOps, pre-sales, and product strategy.
+Keywords: Architecture, Strategy, Software Development, Web Scale, Pre-sale, Product and Concepts
+
 DSB IT
 : *Senior Consultant*
   __2016-????__
@@ -115,7 +124,7 @@ Betware / Danske Spil
 : *Senior Consultant*
   __2011__
   Called in as a XMPP specialist for a month for testing their OpenFire Java/XMPP cluster platform. 
-Developed a full report of optimizing the XMPP backend and the running Java VM.
+Developed a full report of optimising the XMPP backend and the running Java VM.
 Developed a small tool for logging their XMPP server/backend.
 
 
@@ -123,7 +132,7 @@ Developed a small tool for logging their XMPP server/backend.
 XMPP Standard Foundation (XSF)
 : *Member (nonprofit org.)*
   __2009-present__
-  Member of the XMPP Standards Foundation, an independent, nonprofit organization that develop standards for open protocols for presence, instant messaging, real-time communication and collaboration on top of the IETF's Extensible Messaging and Presence Protocol Core (XMPP).
+  Member of the XMPP Standards Foundation, an independent, nonprofit organisation that develop standards for open protocols for presence, instant messaging, real-time communication and collaboration on top of the IETF's Extensible Messaging and Presence Protocol Core (XMPP).
 
 Nordija A/S
 : *Systems Architect*
@@ -135,7 +144,7 @@ Nordija A/S
 ComX Networks
 : *Software Architect*
   __2006-2007__
-  Introducing three-tired architecture and a plan for splitting the GUI away from the business code. Integrated Maven and continuous integration to stabilize the code. Developing specific infrastructure code for extraction of customer residential data for 118, krak and ``de gule sider'' . Developing IPTV and VOD (Video On Demand) and provisioning for the set top boxes. Integrated PDF letter generation for our orders system for the the set-top-boxes. Due to the heterogeneous systems in ComX, we developed a service orientated architecture for our support systems (web services) to couple our software. JEE (JPA persistence) and spring bindings where done in order to inject a test-driven environment and to set up simple connection pooling through JNDI and JBoss. When developing and
+  Introducing three-tired architecture and a plan for splitting the GUI away from the business code. Integrated Maven and continuous integration to stabilise the code. Developing specific infrastructure code for extraction of customer residential data for 118, krak and ``de gule sider'' . Developing IPTV and VOD (Video On Demand) and provisioning for the set top boxes. Integrated PDF letter generation for our orders system for the the set-top-boxes. Due to the heterogeneous systems in ComX, we developed a service orientated architecture for our support systems (web services) to couple our software. JEE (JPA persistence) and spring bindings where done in order to inject a test-driven environment and to set up simple connection pooling through JNDI and JBoss. When developing and
 integrating this technology it was relatively easy to set up a new validation framework (hibernate validation), which was annotation based.
 
 Telmore
@@ -146,7 +155,7 @@ Telmore
 Dev Ops
 : *DKUUG*
   __1997-1999__
-  Maintaining the infrastructure behind the Danish Unix Organization in Denmark. All the servers where kept up and running of course. Also all the sendmail cf files, majordomo list where implemented. DNS and zones where of course also maintained and updated for a lot of hosts. All our website at the organization where also implemented. Designed and implemented the cashcow and payment (Dancard and VISA) for the site as well (in perl).
+  Maintaining the infrastructure behind the Danish Unix Organisation in Denmark. All the servers where kept up and running of course. Also all the sendmail cf files, majordomo list where implemented. DNS and zones where of course also maintained and updated for a lot of hosts. All our website at the organisation where also implemented. Designed and implemented the cashcow and payment (Dancard and VISA) for the site as well (in perl).
 
 -------
 
@@ -156,7 +165,7 @@ Dev Ops
 Copenhagen University
 : *Cand. Scient Dat. (Datalog)*
   __1997-2008__
-Candidate in computer science. Specialized in distributed system and real-time streaming.
+Candidate in computer science. Specialised in distributed system and real-time streaming.
 
 Copenhagen University
 : *Bachelor in Information Psychology*
@@ -166,7 +175,7 @@ Copenhagen University
 Scrum Training Institute
 : *CSM Certified ScrumMaster, Scrum master*
   __2007__
-Scrum traning, learning the role of a scrum master. This course was held by Jeff Sutherland and Jens Østergaard. Focusing on the team, making the team taking the lead. Maximising the team spirit, the feedback, the output and finally the ROI for the customers.
+Scrum training, learning the role of a scrum master. This course was held by Jeff Sutherland and Jens Østergaard. Focusing on the team, making the team taking the lead. Maximising the team spirit, the feedback, the output and finally the ROI for the customers.
 
 ------
 
