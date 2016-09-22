@@ -1,5 +1,6 @@
 # Steffen Larsen
 ## Senior Consultant, BrainTrust ApS
+## Denmark
 
 > Birthday: 27-10-1976
 > [Download PDF](resume.pdf)  
@@ -15,7 +16,7 @@ Strong track record in innovation, software development and strategy. Proven abi
 
 Master Degree in Computer Science (M.Sc.) and Bachelor in Information Psychology at Copenhagen university. I Have been developing and designing professional software developer since 1996.
 
-I have expert knowledge in software development, architecture, message driven middleware, messaging systems, streaming, networking, mobile software deevelopment and operating systems. Contributor for various projects in the open source community and open standards world. Official member and contributor for the XMPP (Jabber) protocol to drive an open and standardised Internet.
+I have expert knowledge in software development, architecture, message driven middleware, messaging systems, streaming, networking, mobile software development and operating systems. Contributor for various projects in the open source community and open standards world. Official member and contributor for the XMPP (Jabber) protocol to drive an open and standardised Internet.
 
 As a result of being in the Telecom business industry since 2001, I have a lot of knowledge in terms of all the technique behind the different telecom areas: the teams, the software, the infrastructure and the business driving it. I am passionate about software and always strive for innovation, usable and simple solutions!
 
@@ -29,10 +30,10 @@ As a result of being in the Telecom business industry since 2001, I have a lot o
   : Proven ability to lead and manage a wide variety of agile development projects in team and independent situations.
 
 * Architecture and Design
-  : Experienced in building and streamlining mission-critical systems. Strives to get high quality software with simple and well designed solution.
+  : Experienced in building and streamlining mission-critical systems. Strives to get high quality innovative software with simple and well designed solution in mind.
   
 * Software Development
-  : Polyglot and full-stack developer with a huge experience in multiple languages and deep knowledge of networks and operating systems. Have done software development since the late 90's.
+  : Polyglot and full-stack developer with a huge experience in multiple languages and deep knowledge of networks and operating systems. Have done software development since the mid 90's.
 
 
 
@@ -53,6 +54,7 @@ As a result of being in the Telecom business industry since 2001, I have a lot o
 3. NoSQL (Couchbase, Couchdb, MongoDB)
 4. Elastic Search
 1. Ionic
+2. Enterprise Integration Patterns (EIP)
 2. Phonegap / Cordova
 1. XMPP
 2. AMQP
@@ -73,27 +75,26 @@ As a result of being in the Telecom business industry since 2001, I have a lot o
 
 ### Experience {#experience}
 
-
-
 CodeZense
 : *CTO*
   __2014-????__
 	Responsible for the strategic directions and technical leadership for the zense.io platform. 
-Handling the development team, software architecture, software development, platform scaling, devOps, pre-sales, and product strategy.
-Keywords: Architecture, Strategy, Software Development, Web Scale, Pre-sale, Product and Concepts
+Handling the development team, software architecture, software development, platform scaling, devOps, pre-sales and product strategy. Moving to a completely new backend: java spring microservice architecture + NoSQL storage and a HTML5 mobile frontend.
+Keywords: Architecture, Strategy, Software Development, Microservice, Web Scale, Pre-sale, Product and Concepts
 
 DSB IT
 : *Senior Consultant*
   __2016-????__
-  Team lead and architect for developing mobile solutions for DSB.
-Working with Javascript, Typescript, Ionic, AngularJS, Phonegap/Cordova, HTML5, Couchdb, Docker, Offline first strategies, RabbitMQ, Jenkins and continuous integrations.
+Cheif Architect and Team lead for developing mobile solutions for DSB.
+Working with Javascript, Typescript, Ionic, AngularJS, Phonegap/Cordova, HTML5, Couchdb NoSQL, Docker, Offline first strategies, RabbitMQ, Jenkins and continuous integrations and continuous deliveries.
 
 TDC
 : *Senior Consultant*
   __2014-2016__
   Developing ingest workflows and middleware for the OTT department.
-Working with Java, AngularJS, HTML5, Nodejs, Python, XMPP, MySQL, Couchbase, Camel, RabbitMQ, JMS.
+Working with Java, AngularJS, HTML5, Nodejs, Python, XMPP protocol, MySQL, Couchbase NoSQL, Camel, Enterprise Integration Patterns (EIP), RabbitMQ, JMS.
 DevOps: Puppet, Docker, ELK stack (Elastic search, Logstash, Kibana), Graphite / Grafana.
+
 
 Nordija A/S
 : *Senior Consultant*
@@ -103,7 +104,7 @@ Nordija A/S
 YouSee (Innovation & Dev. department)
 : *Senior Consultant*
   __2012-2014__
-
+	Developing and implementing their microservices and workflows. Using docker, puppet, Java and Elastic search.
 
 LiveStation Limited
 : *Senior Consultant*
@@ -118,7 +119,7 @@ Thrane & Thrane
 YouSee (YTS department)
 : *Senior Consultant*
   __2011__2012__
-  Doing REST APIs, documentation, implementation, testing and streamlining of their current REST APIs for the video on-demand content platform to suit new emerging technologies like handhelds (android, iphone, iPad) etc. Developed: Java, Javascript, HTML5, IOS, XMPP
+  Team lead : designing REST APIs, documentation, implementation, testing and streamlining of their current REST APIs for the video on-demand content platform to suit new emerging technologies like handhelds (android, iphone, iPad) etc. Developed: Java, Javascript, HTML5, IOS, XMPP
 
 Betware / Danske Spil
 : *Senior Consultant*
@@ -159,6 +160,12 @@ Dev Ops
 
 -------
 
+
+### Boards and Volunteering {#experience}
+Growr.com
+: *Board member and owner*
+  __2016-????__
+  Board member and partner at growr.com. A new e-commerce site for B2B - selling and buying organic food and brewages. Will launch late 2016.
   
 ### Education {#experience}
 
