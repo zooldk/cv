@@ -172,7 +172,7 @@ Growr.com
 Copenhagen University
 : *Cand. Scient Dat. (Datalog)*
   __1997-2008__
-Candidate in computer science. Specialised in distributed system and real-time streaming.
+Graduated in computer science. Specialised in distributed systems and real-time streaming.
 
 Copenhagen University
 : *Bachelor in Information Psychology*
@@ -183,6 +183,15 @@ Scrum Training Institute
 : *CSM Certified ScrumMaster, Scrum master*
   __2007__
 Scrum training, learning the role of a scrum master. This course was held by Jeff Sutherland and Jens Østergaard. Focusing on the team, making the team taking the lead. Maximising the team spirit, the feedback, the output and finally the ROI for the customers.
+
+
+### Languages {#experience}
+
+* Danish (native)
+* English (close to native)
+* German (proficiant)
+* French (understanding)
+
 
 ------
 
