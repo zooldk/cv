@@ -118,7 +118,7 @@ Thrane & Thrane
 
 YouSee (YTS department)
 : *Senior Consultant*
-  __2011__2012__
+  __2011-2012__
   Team lead : designing REST APIs, documentation, implementation, testing and streamlining of their current REST APIs for the video on-demand content platform to suit new emerging technologies like handhelds (android, iphone, iPad) etc. Developed: Java, Javascript, HTML5, IOS, XMPP
 
 Betware / Danske Spil
@@ -151,7 +151,7 @@ integrating this technology it was relatively easy to set up a new validation fr
 Telmore
 : *Senior Developer*
   __2001-2006__
-  Developing most of the infrastructure behind Telmore, such as: Rating, Tap1, Tap3 price loading formats (ASN1), SMSC center, OTA/OMA for cellphones, Wap gateway, Mailers, MailBounce handlers etc. Also developing ordinary Java/Struts pages for our homepage.
+  Developing most of the infrastructure behind Telmore, such as: Billing and Rating systems, Tap1, Tap3 price loading formats (ASN1), SMSC gateway center, OTA/OMA push for cellphones, Wap gateway, Mailers, MailBounce handlers etc. Also developing ordinary Java/Struts pages for all of the telmore.dk homepage.
 
 Dev Ops
 : *DKUUG*
@@ -189,7 +189,10 @@ Scrum training, learning the role of a scrum master. This course was held by Jef
 
 * Danish (native)
 * English (close to native)
+* Swedish (close to native)
+* Norwegian (close to native)
 * German (proficiant)
+* Bulgarian (understanding)
 * French (understanding)
 
 
