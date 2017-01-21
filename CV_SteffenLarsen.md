@@ -14,9 +14,9 @@
 Experienced architect and technologist, that handles all from software development to leadership and research and design. 
 Strong track record in innovation, software development and strategy. Proven ability to build large scale software within highly agile teams where I strive the best. Always creating creative solutions for new concepts and product strategies.
 
-Master Degree in Computer Science (M.Sc.) and Bachelor in Information Psychology at Copenhagen university. I Have been developing and designing professional software developer since 1996.
+Master Degree in Computer Science (M.Sc.) and Bachelor in Information Psychology at Copenhagen university. I Have been developing and designing professional software since 1996.
 
-I have expert knowledge in software development, architecture, message driven middleware, messaging systems, streaming, networking, mobile software development and operating systems. Contributor for various projects in the open source community and open standards world. Official member and contributor for the XMPP (Jabber) protocol to drive an open and standardised Internet.
+I have expert knowledge in software development, design & architecture, message driven middleware, messaging systems, streaming, networking, mobile software development and operating systems. Contributor for various projects in the open source community and open standards world. Official member and contributor for the XMPP (Jabber) protocol to drive an open and standardised Internet.
 
 As a result of being in the Telecom business industry since 2001, I have a lot of knowledge in terms of all the technique behind the different telecom areas: the teams, the software, the infrastructure and the business driving it. I am passionate about software and always strive for innovation, usable and simple solutions!
 
