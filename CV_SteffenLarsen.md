@@ -172,7 +172,7 @@ Dev Ops
 Growr.com
 : *Board member and owner*
   __2016-????__
-  Board member and partner at growr.com. A new e-commerce site for B2B - selling and buying organic food and brewages. Will launch late 2016.
+  Board member and partner at growr.com. A new e-commerce site for B2B - selling and buying organic food and brewages. Will launch mid 2017.
   
 ### Education {#experience}
 
