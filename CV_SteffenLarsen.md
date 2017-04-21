@@ -82,6 +82,13 @@ CodeZense
 Handling the development team, software architecture, software development, platform scaling, devOps, pre-sales and product strategy. Moving to a completely new backend: java spring microservice architecture + NoSQL storage and a HTML5 mobile frontend.
 Keywords: Architecture, Strategy, Software Development, Microservice, Web Scale, Pre-sale, Product and Concepts
 
+SwapKids
+: *Senior Consultant*
+  __2017-????__
+Lead developer for backend and frontend.
+Working with Nodejs,  Amazon Lamdba, Microservices, Javascript, Ionic, AngularJS, Phonegap/Cordova, HTML5, MongoDB NoSQL.
+
+
 DSB IT
 : *Senior Consultant*
   __2016-????__
